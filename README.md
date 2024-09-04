@@ -58,7 +58,7 @@ This project implements a basic load balancer using the Ryu SDN framework. It dy
    - Use tools like `curl` or a web browser to generate HTTP traffic to observe load balancing in action.
 
 ## Explanation with Images 
-
+  ![Packet Before](image.jpeg)
 ### Packet Flow
 
 
